@@ -1,6 +1,6 @@
-## Potência Tech iFood - Desenvolvimento de Jogos JAVA SCRIPT
+# Potência Tech iFood - Desenvolvimento de Jogos JAVA SCRIPT
 
--- Principio Desenvolvimento de Jogos
+## Principio Desenvolvimento de Jogos
 
 [Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!](https://www.dio.me/certificate/5D0440AF/share)
 
